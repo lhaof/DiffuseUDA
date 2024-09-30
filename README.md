@@ -1,5 +1,5 @@
 # DiffuseUDA
-This respository is the official implimentation of the paper [Diffuse-UDA](https://arxiv.org/pdf/2408.05985): Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models. This work introduce a effective method that reaches the comparable or exceeds the upper bound on the unsupervised domain adaptation task.
+This respository is the official implimentation of the paper <!--[Diffuse-UDA](https://arxiv.org/pdf/2408.05985):--> Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models. This work introduce a effective method that reaches the comparable or exceeds the upper bound on the unsupervised domain adaptation task.
 
 # Deployment
 ## Environment
