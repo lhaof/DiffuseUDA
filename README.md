@@ -14,7 +14,7 @@ Folder seg-xxx indicate the corresponding segmentation task on xxx dataset. Fold
 Please refer to ``xxx.sh'' inside the folders. 
 
 ```# Cite
-```If you find this code useful for your research, please consider cite the following paper:
+`If you find this code useful for your research, please consider cite the following paper:`
 ```
 ```@article{gong2024diffuse,
 ```  title={Diffuse-UDA: Addressing Unsupervised Domain Adaptation in Medical Image Segmentation with Appearance and Structure Aligned Diffusion Models},
